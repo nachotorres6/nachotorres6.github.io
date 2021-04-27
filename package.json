@@ -1,6 +1,6 @@
 {
     "title": "Pagina Nacho",
-    "name": "startbootstrap-stylish-portfolio",
+    "name": "Hola esta es mi pagina nueva xd",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
